@@ -32,3 +32,9 @@ data "terraform_remote_state" "foo" {
 }
 
 ```
+
+
+## Documentação provider
+
+- [GKE - cluster](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/container_cluster)
+- [GKE - NodePool](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/container_node_pool)
